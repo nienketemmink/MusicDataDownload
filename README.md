@@ -20,20 +20,19 @@ Music Downloads
 
 ## Source Information
 ### site 
-musicarchive.org (link) 
-..
+The data is from [FreeMusicArchive](http://freemusicarchive.org)
 
 ### json file 
-[This is the link to the json file with the data I used.](tracks_data.json)
+This is the link to the [json file](code/DM_tracks_data2.json) with the data I used.
 
 ## Code
-...
+This are the files with the code I used for the graphs. I made these graphs and animation in [plotdevice](http://plotdevice.io). The code to flatten the data is a python file. 
 ### Organize code
-... (link bestand) 
+The code to [flatten](code/DM_flatten_track.py) your data. This means that you delete the information/data in the code that you don't need. You can choose which data you want. 
 ### Code graph 
-...(link bestand) 
+This is the code for the [wave graph](code/DM_2-5-17_graph_wave). The code is used for the three categories [interests, listens and downloads]. You can do this by changing all the track_listens to track_interests or track_downloads. 
 ### Code animation 
-...(link bestand) 
+This is the code for the [wave animation](code/DM_2-5-17_graph_wave_anim). 
 
 ## Sketch 
 ...
