@@ -11,12 +11,11 @@ Music Interests
 Music Listens
 ![musiclistens](https://cloud.githubusercontent.com/assets/21360973/26760289/f0815a60-4914-11e7-9d12-4022aad67016.png)
 
-
 Music Downloads
 ![musicdownloads](https://cloud.githubusercontent.com/assets/21360973/26760302/0f81e8f8-4915-11e7-834f-70db1c5a9140.png)
 
 ## Animation
-... image/animation 
+... gif animatie
 
 ## Source Information
 ### site 
@@ -35,5 +34,4 @@ This is the code for the [wave graph](code/DM_2-5-17_graph_wave.pv). The code is
 This is the code for the [wave animation](code/DM_2-5-17_graph_wave_anim.pv). 
 
 ## Sketch 
-...
-(link bestand) 
+Here you can find all the [sketches](sketch) of graphs I made with plotdevice. 
