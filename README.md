@@ -15,7 +15,8 @@ Music Downloads
 ![musicdownloads](https://cloud.githubusercontent.com/assets/21360973/26760302/0f81e8f8-4915-11e7-834f-70db1c5a9140.png)
 
 ## Animation
-... gif animatie
+Animation GIF
+![dm_2-5-17_graph_wave_anim](https://cloud.githubusercontent.com/assets/21360973/26760473/0d57ed8a-4919-11e7-9197-aae8ccc81309.gif)
 
 ## Source Information
 ### site 
