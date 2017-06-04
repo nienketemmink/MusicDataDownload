@@ -2,7 +2,7 @@
 Open Source Data Visualization Music
 
 ## Description
-...
+My project is about the data visualization of open source music. I used three categories for the data visualization: MusicInterests, MusicListens and MusicDownloads. I have made a chart of these values of the songs. So for every category there is one graphic, based on values of different songs. The graphs look like a music wave. These data is from [FreeMusicArchive](http://freemusicarchive.org). I also made a combination of the three graphs in an animation. Here the values change between the three categories. The sound wave changes in shape as a result of the data.
 
 ## Graph
 ... image graph
@@ -16,7 +16,7 @@ musicarchive.org (link)
 ..
 
 ### json file 
-[Json file with used code](tracks_data.json)
+[This is the link to the json file with the data I used.](tracks_data.json)
 
 ## Code
 ...
